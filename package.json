@@ -1,0 +1,23 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Inster0's Legal Documents",
+  "main": "toHTML.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inster0/docs.git"
+  },
+  "author": "Inster0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inster0/docs/issues"
+  },
+  "homepage": "https://github.com/inster0/docs",
+  "dependencies": {
+    "async": "^2.0.1",
+    "marked": "^0.3.6"
+  }
+}

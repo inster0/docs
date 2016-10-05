@@ -13,11 +13,13 @@ A "Member" is an individual that has registered with us to use our Service.
 
 Our "Service" or "Services" represents the collective functionality and features as offered through this Website to our Members.
 
-An "Account" is a collection consisting of an Instagram username and a corresponding Purchase.
+An "Account" is a collection consisting of an Instagram account and a corresponding Plan.
 
-A "Purchase" is a collection consisting of a Duration and price that is paid through Paypal for our Services.
+A "Plan" is a collection consisting of a Duration and price for our Services.
 
-The "Duration" of a Purchase refers to the number of days the accompanying Account will work for.
+The "Duration" of a Plan refers to the number of days the Plan will last before it expires.
+
+A "Purchase" is an acquisition of a Plan for an Account that is paid through Paypal.
 
 "Content" includes, but not limited to, all text, information, graphics, audio, video, data, scripts, illustrations, comments, logos, executable files, and interactive features made accessible through our Website.
 
@@ -43,9 +45,9 @@ Ruxim reserves the right to modify this Agreement at any time by posting a revis
 
 4.6. We can not guarantee continuous, uninterrupted or error-free operations of our Services.
 
-4.7. Upon purchasing our Services, you understand that you are purchasing an Account and will not file a dishonest dispute through PayPal.
+4.7. Upon purchasing our Services, you understand that you are purchasing a Plan and will not file a dishonest dispute through PayPal.
 
-4.8. The Duration of an Account begins immediately after the accompanying Purchase is complete.
+4.8. The Duration of a Plan begins immediately after the Purchase is complete.
 
 4.9. There are no refunds.
 

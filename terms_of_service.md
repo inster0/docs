@@ -45,9 +45,9 @@ Ruxim reserves the right to modify this Agreement at any time by posting a revis
 
 4.7. Upon purchasing our Services, you understand that you are purchasing an Account and will not file a dishonest dispute through PayPal.
 
-4.8. The Duration of an Account begins the minute the accompanying Purchase is complete.
+4.8. The Duration of an Account begins immediately after the accompanying Purchase is complete.
 
-4.9. You are not entitled to a refund if you disable or delete an Account before the Duration concludes.
+4.9. There are no refunds.
 
 ## 5. Service Changes and Limitations
 
